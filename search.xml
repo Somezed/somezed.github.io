@@ -24,6 +24,18 @@
         <content type="html"><![CDATA[<h1 id="markdown语法小杰"><a href="#markdown语法小杰" class="headerlink" title="markdown语法小杰"></a>markdown语法小杰</h1><p>1.普通文本：<code>text</code><br>2.黑体：<code>**text**</code><br>3.斜体：<code>*text*</code><br>4.分割线：三个或三个以上的<em>，-_都可以的<br>5.黑斜体： <code>***text***</code><br>6.删除线： <code>~~text~~</code><br>7.高亮： ==text==<br>8.列表：</em>-+<br>9.链接<code>[link](url)</code><br>10.图片<code>![鼠标显示的内容](url)</code></p><h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p>顺便测试一下==blog==</p><hr><p>读写权限测试</p>]]></content>
       
       
+      <categories>
+          
+          <category> 指令合集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
       
     </entry>
     
