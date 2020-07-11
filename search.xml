@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<h1 id="问题列表"><a href="#问题列表" class="headerlink" title="问题列表"></a>问题列表</h1><ul><li>mac权限问题  </li></ul><p>1.每次命令都需要输入sudo<br>2.typora不能直接编辑生成的md文件（已锁定没有权限）</p><ul><li>vscode问题  </li></ul><p>1.git的使用<br>2.如何链接云主机</p>]]></content>
       
       
+      <categories>
+          
+          <category> 问题记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -49,6 +61,18 @@
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 问题记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
@@ -62,19 +86,18 @@
         <content type="html"><![CDATA[<p>#测试文件</p><p>今天太累了，明天再说吧233333</p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>建立blog的笔记</title>
-      <link href="/2020/07/05/%E5%BB%BA%E7%AB%8Bblog%E7%9A%84%E7%AC%94%E8%AE%B0/"/>
-      <url>/2020/07/05/%E5%BB%BA%E7%AB%8Bblog%E7%9A%84%E7%AC%94%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+      <categories>
+          
+          <category> 问题记录 </category>
+          
+      </categories>
       
       
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
