@@ -1,0 +1,10 @@
+ # notice widget
+notice:
+  class: text
+  display: [desktop,mobile]
+  header:
+    icon: fas fa-bullhorn
+    title: 公告
+  content:
+    - '土木学子考研ing'
+    - '编程爱好者想考一建'
