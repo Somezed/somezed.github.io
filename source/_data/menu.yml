@@ -1,0 +1,31 @@
+- name: 首页
+  icon: fas fa-home
+  url: /
+- name: 索引
+  icon: fas fa-cube
+  rows:
+  - name: 归档
+    icon: fas fa-archive
+    url: /archives/
+  - name: 分类
+    icon: fas fa-folder-open
+    url: /categories/
+  - name: 标签
+    icon: fas fa-tags
+    url: /tags/
+- name: 说说
+  icon: fas fa-comment-dots
+  url: /artitalk1/
+- name: 友链
+  icon: fas fa-link
+  url: /friends/
+- name: 更多
+  icon: fas fa-ellipsis-v
+  rows: 
+  - name: 更新记录
+    icon: fas fa-clock
+    url: /timeline/
+  - name: hr
+  - name: Github
+    icon: fab fa-github
+    url: https://github.com/Flexiston
