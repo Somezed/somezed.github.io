@@ -619,8 +619,9 @@ search:
     queryKey:
   baidu:
     apiId:
-
-
+# online contact
+daovoice: true
+daovoice_app_id: b115db16
 
 ############################### Theme Information ###############################
 info:
