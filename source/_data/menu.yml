@@ -13,9 +13,9 @@
   - name: 标签
     icon: fas fa-tags
     url: /tags/
-- name: 说说
+- name: 碎碎念
   icon: fas fa-comment-dots
-  url: /artitalk1/
+  url: /碎碎念/
 - name: 友链
   icon: fas fa-link
   url: /friends/
